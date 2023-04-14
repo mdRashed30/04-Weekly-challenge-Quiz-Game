@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Barlow', sans-serif;
+}
+
+/* body section */
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    justify-content: center;
+    background-color: rgb(134, 97, 27);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: aliceblue;
+}
+
+/* Header section */
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    align-items: center;
+    font-size: 40px;
+}
+
+/* timer section */
+#time {
+    background-color: rgb(121, 199, 219);
+    padding: 5px;
+    color: black;
+}
+
+/* Score check section */
+#score_check {
+    background-color: rgb(121, 199, 219);
+    padding: 15px;
+    color: black;
+}
+
+/* main section */
+main {
+    text-align: center;
+    justify-content: center;
+    float: 1 0 auto;
+
+
+}
+
+/* h1 Heading  */
+h1 {
+    font-size: 40px;
+}
+
+/* instruction paragraph  */
+#instruction {
+    font-size: 25px;
+    color: rgb(213, 207, 211);
+}
+
+/* Question section */
+.qustion_page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+/* ul list section  */
+ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    list-style-type: none;
+}
+
+/* question_page,.high_score_page, .submit_page,#check_line display none  */
+.question_page,
+.high_score_page,
+.submit_page,
+#check_line {
+    display: none;
+}
+
+#score_check {
+    font-size: 25px;
+}
+
+/* All button  */
+
+.button {
+    background: rgb(121, 199, 219);
+    border-radius: 4px;
+    padding: 15px;
+    cursor: pointer;
+    margin-bottom: 10px;
+
+}
+
+/* all button hover  */
+
+.button:hover {
+    background-color: rgb(188, 102, 56);
+}
