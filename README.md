@@ -8,6 +8,8 @@
 4. [Install](#install)
 5. [Screenshots](#screenshots)
 6. [Links](#links)
+7. [acknowledgements](#acknowledgements)
+8. [credit](#credit)
 
 ---
 
@@ -68,8 +70,16 @@ The quiz ends when either all the questions are answered, or the timer reaches z
 - [Github Repo](https://github.com/mdRashed30/Quiz-Game-Challenege-4)
 - [Deployed Page](https://mdrashed30.github.io/Quiz-Game-Challenege-4/)
 
+## acknowledgements :
+
+-- Video Tutorial
+-- Youtube
+-- Google
+
 ## Credit:
 
-Special thanks to my friend
+Special thanks to my friends who help me -
 
 -- Indrojit Ghosh
+-- Zuberi Asraf
+-- Mahabub Hossen
