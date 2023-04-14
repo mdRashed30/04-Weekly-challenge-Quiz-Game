@@ -64,5 +64,5 @@ The quiz ends when either all the questions are answered, or the timer reaches z
 
 ## links
 
-- [Github Repo](https://github.com/mdRashed30/Password-Generator--wk-03.git)
+- [Github Repo](https://github.com/mdRashed30/Quiz-Game-Challenege-4)
 - [Deployed Page](https://mdrashed30.github.io/Quiz-Game-Challenege-4/)
