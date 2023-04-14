@@ -31,6 +31,7 @@ The quiz ends when either all the questions are answered, or the timer reaches z
 
 - GIVEN I am taking a code quiz
   <br>
+
 - WHEN I click the start button
   <br>
 - THEN a timer starts and I am presented with a question
@@ -66,3 +67,9 @@ The quiz ends when either all the questions are answered, or the timer reaches z
 
 - [Github Repo](https://github.com/mdRashed30/Quiz-Game-Challenege-4)
 - [Deployed Page](https://mdrashed30.github.io/Quiz-Game-Challenege-4/)
+
+## Credit:
+
+Special thanks to my friend
+
+-- Indrojit Ghosh
