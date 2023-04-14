@@ -63,7 +63,7 @@ The quiz ends when either all the questions are answered, or the timer reaches z
 
 ## Screenshots:
 
-![Quiz-Game](assets/image/screencapture-file-Users-mdmamatajurrashed-Desktop-bootcamp-Class-Projects-Code-Quiz-week-4-index-html-2023-04-13-21_00_50.png)
+![Quiz-Game](assets/image/screencapture-mdrashed30-github-io-Quiz-Game-Challenege-4-2023-04-13-22_54_09.png)
 
 ## links
 
